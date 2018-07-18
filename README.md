@@ -2,6 +2,8 @@
 Mail signature with picture, and link to social media.
 Heavily based off 
 
-##Instructions
+## Preview
+
+## Instructions
 -For Gmail
 -For Outlook
