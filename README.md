@@ -1,5 +1,5 @@
-# Custom Mail Signature
-Mail signature with picture, and link to social media.
+# Custom Email Signature
+Email signature with picture, and link to social media.
 Heavily based off [Creating Slick Email Signatures Using HTML & CSS](https://medium.com/@robertcooper_rc/creating-slick-email-signatures-using-html-css-9e932758a41e) by Robert Cooper.
 
 ## Preview
