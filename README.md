@@ -3,7 +3,7 @@ Mail signature with picture, and link to social media.
 Heavily based off [Creating Slick Email Signatures Using HTML & CSS](https://medium.com/@robertcooper_rc/creating-slick-email-signatures-using-html-css-9e932758a41e) by Robert Cooper.
 
 ## Preview
-
+[kennethassogba.co/email-signature](https://kennethassogba.co/email-signature/)
 ## Instructions
 ### For Gmail
 You will have to copy the rendered HTML signature into Gmail. 
