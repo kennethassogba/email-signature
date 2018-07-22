@@ -5,6 +5,9 @@ Heavily based off [Creating Slick Email Signatures Using HTML & CSS](https://med
 ## Preview
 [kennethassogba.co/email-signature](https://kennethassogba.co/email-signature/)
 ## Instructions
+All the images in the signature need to be hosted somewhere like Google Drive.\
+I had to change the sharing link provided by Google to include uc?id= at the beginning of the GET request in the URL.\
+This allows for a direct download from Google Drive and makes sure the image appears correctly in the email signature.
 ### For Gmail
 You will have to copy the rendered HTML signature into Gmail. 
 1.  Open your HTML file in a browser.
